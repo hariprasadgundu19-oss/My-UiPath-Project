@@ -1,0 +1,6 @@
+{
+  "Name": "bny_variables",
+  "ProjectType": "Process",
+  "Description": "variables session ",
+  "MainFile": "Main.xaml"
+}
